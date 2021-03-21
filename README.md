@@ -1,6 +1,8 @@
 # Creating-the-web_Basic-my-first-HTML
 생활코딩으로 익혀보는 기본 HTML 웹 페이지만들기 
 
+참고 링크 = " https://opentutorials.org/course/1 "
+
 ## 웹페이지 만들기
 
 > 2시간 동안 만은 첫 나의 웹이다. 
