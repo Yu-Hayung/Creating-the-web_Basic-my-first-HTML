@@ -23,3 +23,13 @@ HTML을 직접 보고 실행해 볼 수 있는 좋은 사이트 이다.
 
 # 만든 웹
 > " https://yu-hayung.github.io/Creating-the-web_Basic-my-first-HTML/1%20.%20Animal.html "
+
+
+---
+## 학원 과제 : 보기와 똑같이 구성하라 
+
+![참고 이미지](https://user-images.githubusercontent.com/77039803/118911078-90aa2200-b960-11eb-877f-b23efdb2c500.png)
+
+완성 이미지 
+
+<img width="1314" alt="스크린샷 2021-05-20 오전 11 33 18" src="https://user-images.githubusercontent.com/77039803/118911092-96a00300-b960-11eb-9e8f-ed889d9fae2e.png">
